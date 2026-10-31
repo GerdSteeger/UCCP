@@ -97,19 +97,34 @@ When the release is available, check its instructions and included configuration
 
 ## Screenshots and brochure
 
-Screenshots can be displayed **directly in this README**. Once images are uploaded to the repository (for example in `assets/`), add them like this:
+Explore UCCP in action — from the Boeing 737 cockpit to our custom-designed panel skins.
 
-```markdown
-![UCCP cockpit panel](assets/uccp-panel.png)
-```
+### ✈️ UCCP in the Boeing 737 cockpit
 
-A PDF brochure can also be stored in the repository and linked here, without an external cloud service:
+![UCCP Main Panel in Boeing 737 Cockpit](assets/738cockpit_uccp_main.jpg)
 
-```markdown
-[Read the illustrated UCCP brochure](docs/UCCP_Brochure.pdf)
-```
+### 🎛️ Quick Input — Boeing 737
 
-*Image and brochure links will be activated after those files are uploaded.*
+![UCCP Quick Input in Boeing 737 Cockpit](assets/938cockpit_uccp_quick.jpg)
+
+### 🛫 Boeing 737 Panel
+
+![UCCP Boeing 737 Quick Input](assets/738_quick.PNG)
+
+### 🪵 WOOD Skin
+
+![UCCP WOOD Skin](assets/wood_main.PNG)
+
+---
+
+### 📖 Illustrated UCCP Brochure
+
+Discover the project, its design philosophy and its features in our illustrated English-language brochure.
+
+**[📄 Open the illustrated UCCP brochure (PDF)](docs/UCCP_Introduction_EN_Final_Dark_Logo%202.pdf)**
+
+---
+
 
 ## Development and acknowledgements
 
